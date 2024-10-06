@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Hristina - I’m currently learning C# in SoftUni Academy.
+
 <!--
 **hstoykova/hstoykova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
