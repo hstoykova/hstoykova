@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-I am Hristina - I’m currently learning C# in SoftUni Academy.
+I'm Hristina - I’m currently learning C# in SoftUni Academy.
+I'm looking to change my career to software development. I am currently working as Customer Support Specialist.
+
+Languages and Tools:
+![image](https://github.com/user-attachments/assets/1e3db5ca-aadc-4203-b465-b17731752611)
+
 
 <!--
 **hstoykova/hstoykova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
