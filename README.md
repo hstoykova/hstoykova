@@ -3,8 +3,9 @@
 I'm Hristina - I’m currently learning C# in SoftUni Academy.
 I'm looking to change my career to software development. I am currently working as Customer Support Specialist.
 
-Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
+**Languages and Tools:**
+
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,discord,git,github)
 
 
 <!--
